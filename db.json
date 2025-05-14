@@ -1,0 +1,57 @@
+{
+    "user": {
+        "id": 1,
+        "name": "Dani Martinez1",
+        "avatar": "https://i.pravatar.cc/150?img=3"
+    },
+    "categories": [
+        {
+            "id": 1,
+            "name": "Consultation1",
+            "icon": "github"
+        },
+        {
+            "id": 2,
+            "name": "Dentist",
+            "icon": "🦷"
+        },
+        {
+            "id": 3,
+            "name": "Cardiologist",
+            "icon": "💜"
+        },
+        {
+            "id": 4,
+            "name": "Hospital",
+            "icon": "🏥"
+        },
+        {
+            "id": 5,
+            "name": "Emergency",
+            "icon": "⚠️"
+        },
+        {
+            "id": 6,
+            "name": "Laboratory",
+            "icon": "🔬"
+        }
+    ],
+    "doctors": [
+        {
+            "id": 1,
+            "name": "dr. Olivia Wilson1",
+            "specialty": "Physiotherapy",
+            "rating": 4.9,
+            "reviews": 37,
+            "image": "https://i.pravatar.cc/150?img=1"
+        },
+        {
+            "id": 2,
+            "name": "dr. Jonathan Patterson1",
+            "specialty": "Internal Medicine",
+            "rating": 4.9,
+            "reviews": 37,
+            "image": "https://i.pravatar.cc/150?img=5"
+        }
+    ]
+}
